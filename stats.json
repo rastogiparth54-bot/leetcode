@@ -2,13 +2,19 @@
   "problems": {
     "0001-two-sum": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-17T07:25:46.940Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-17T07:25:46.940Z",
       "title": "Two Sum"
+    },
+    "0404-sum-of-left-leaves": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-18T14:28:23.976Z",
+      "lang": "cpp",
+      "title": "Sum of Left Leaves"
     }
   },
-  "solved": 1,
-  "easy": 1,
+  "solved": 2,
+  "easy": 2,
   "medium": 0,
   "hard": 0
 }
