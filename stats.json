@@ -8,13 +8,19 @@
     },
     "0404-sum-of-left-leaves": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-18T14:28:23.976Z",
+      "solvedAt": "2026-11-21T13:22:15.589Z",
       "lang": "cpp",
       "title": "Sum of Left Leaves"
+    },
+    "1448-maximum-69-number": {
+      "difficulty": "Easy",
+      "lang": "cpp",
+      "solvedAt": "2026-11-19T13:04:18.392Z",
+      "title": "Maximum 69 Number"
     }
   },
-  "solved": 2,
-  "easy": 2,
+  "solved": 3,
+  "easy": 3,
   "medium": 0,
   "hard": 0
 }
