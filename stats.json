@@ -8,8 +8,8 @@
     },
     "0404-sum-of-left-leaves": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-21T13:22:15.589Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-21T13:22:15.589Z",
       "title": "Sum of Left Leaves"
     },
     "1448-maximum-69-number": {
@@ -17,10 +17,16 @@
       "lang": "cpp",
       "solvedAt": "2026-11-19T13:04:18.392Z",
       "title": "Maximum 69 Number"
+    },
+    "4485-count-dominant-elements": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-22T03:00:26.752Z",
+      "lang": "cpp",
+      "title": "Count Dominant Elements"
     }
   },
-  "solved": 3,
-  "easy": 3,
+  "solved": 4,
+  "easy": 4,
   "medium": 0,
   "hard": 0
 }
