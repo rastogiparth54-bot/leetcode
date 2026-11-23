@@ -20,13 +20,19 @@
     },
     "4485-count-dominant-elements": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-22T03:00:26.752Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-22T03:00:26.752Z",
       "title": "Count Dominant Elements"
+    },
+    "0069-sqrtx": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-11-23T13:28:16.795Z",
+      "lang": "cpp",
+      "title": "Sqrt(x)"
     }
   },
-  "solved": 4,
-  "easy": 4,
+  "solved": 5,
+  "easy": 5,
   "medium": 0,
   "hard": 0
 }
