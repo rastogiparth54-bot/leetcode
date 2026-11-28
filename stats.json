@@ -8,8 +8,8 @@
     },
     "0404-sum-of-left-leaves": {
       "difficulty": "Easy",
-      "solvedAt": "2026-11-27T14:27:50.630Z",
       "lang": "cpp",
+      "solvedAt": "2026-11-27T14:27:50.630Z",
       "title": "Sum of Left Leaves"
     },
     "1448-maximum-69-number": {
@@ -29,10 +29,16 @@
       "lang": "cpp",
       "solvedAt": "2026-11-26T14:47:04.317Z",
       "title": "Sqrt(x)"
+    },
+    "3745-maximum-number-of-items-from-sale-ii": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-11-28T05:38:40.421Z",
+      "lang": "cpp",
+      "title": "Maximum Number of Items From Sale II"
     }
   },
-  "solved": 5,
+  "solved": 6,
   "easy": 5,
-  "medium": 0,
+  "medium": 1,
   "hard": 0
 }
